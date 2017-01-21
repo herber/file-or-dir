@@ -19,5 +19,8 @@ if (check(path) == 'file') {
 }
 ```
 
+
+> Working example in [test.js](https://github.com/tobihrbr/file-or-dir/blob/master/test.js)
+
 ## License
 MIT
