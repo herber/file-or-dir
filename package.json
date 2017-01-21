@@ -1,0 +1,25 @@
+{
+  "name": "file-or-dir",
+  "main": "lib/app.js",
+  "repository": {
+    "url": "https://github.com/tobihrbr/file-or-dir.git",
+    "type": "git"
+  },
+  "version": "1.0.0",
+  "description": "Check if path is a file or a directory",
+  "keywords": [
+    "file",
+    "dir",
+    "directory",
+    "check"
+  ],
+  "license": "MIT",
+  "author": "tobihrbr",
+  "scripts": {
+    "start": "node lib/app.js"
+  },
+  "dependencies": {
+    "dir-check": "^1.0.0",
+    "file-check": "^1.0.0"
+  }
+}
